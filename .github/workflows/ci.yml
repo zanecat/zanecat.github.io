@@ -23,7 +23,6 @@ jobs:
 
       - name: Generate CNAME
         run: |
-          mkdir public
           echo "www.wzane.com" >> ./public/CNAME
 
       - name: Deploy
