@@ -1,5 +1,8 @@
 # Zane's Blog
 
-based on
+### Build on:
  - hugo
  - github pages
+
+### CI:
+- github actions
