@@ -154,10 +154,10 @@ params:
     #     google:
     #         SiteVerificationTag: "XYZabc"
 
-    assets:
-        favicon: "/icons/favicon.ico"
-        favicon16x16: "/icons/favicon-16x16.png"
-        favicon32x32: "/icons/favicon-16x16.png"
+#     assets:
+#         favicon: "/icons/favicon.ico"
+#         favicon16x16: "/icons/favicon-16x16.png"
+#         favicon32x32: "/icons/favicon-16x16.png"
         # apple_touch_icon: "<link /static/favicon.ico abs url>"
     #     safari_pinned_tab: "<link / abs url>"
 
