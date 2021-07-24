@@ -23,8 +23,8 @@ jobs:
 
       - name: Generate CNAME
         run: |
-        mkdir public
-        echo "www.wzane.com" >> ./public/CNAME
+          mkdir public
+          echo "www.wzane.com" >> ./public/CNAME
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
