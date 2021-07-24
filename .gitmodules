@@ -1,0 +1,6 @@
+# [submodule "public"]
+# 	path = public
+# 	url = ssh://git@github.com/zanecat/zanecat.github.io.git
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
