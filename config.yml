@@ -27,7 +27,7 @@ languages:
             # imageTitle: my image
             # imageWidth: 120
             # imageHeight: 120
-            subtitle: "💻 Coding |🏃‍♂️ Sports | 🍕 Life "
+            subtitle: "💻 |🏃‍♂️ | 🍕 "
             buttons:
                 - name: Blog
                   url: posts
@@ -55,12 +55,12 @@ languages:
         title: Zane Wang
         profileMode:
             enabled: true
-            title: Zane 小站
+            title: Zane的博客
             # imageUrl: "#"
             # imageTitle: my image
             # imageWidth: 120
             # imageHeight: 120
-            subtitle: "💻 搬砖 | 🏃‍♂️ 撸铁 | 🍕 胡思乱想 "
+            subtitle: "胡思乱想"
             buttons:
                 - name: 文字
                   url: posts
